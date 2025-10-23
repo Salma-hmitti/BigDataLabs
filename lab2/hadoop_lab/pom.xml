@@ -44,10 +44,10 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.hadoop_lab.hdfslab.HadoopFileStatus</mainClass>
+                            <mainClass>com.example.hadoop_lab.hdfslab.ReadHDFS</mainClass>
                         </manifest>
                     </archive>
-                    <finalName>HadoopFileStatus</finalName>
+                    <finalName>ReadHDFS</finalName>
                 </configuration>
             </plugin>
         </plugins>
